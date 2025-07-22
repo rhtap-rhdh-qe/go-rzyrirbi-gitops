@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-rzyrirbi:304521680746e795c39795a3c7c90e95c909ab73@sha256:b7e8ac40c6f1d76abb0e0cf8b25e3049027acb1674de94611b2f670fd6c4fdf6
+        - image: quay.io/rhtap_qe/go-rzyrirbi:35a938df56d27f8bca620f049f37560100164a24@sha256:d20771ec68b5eb8bbc40023ca4247d12aaf2679e757728dad991dadbc09c251f
           name: container-image
